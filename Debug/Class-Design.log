@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\24209\source\repos\Class-Design\header.h(252): warning C4715: 'Deleteforname': not all control paths return a value
+C:\Users\24209\source\repos\Class-Design\header.h(277): warning C4715: 'Deleteforlogo': not all control paths return a value
+  Class-Design.vcxproj -> C:\Users\24209\source\repos\Class-Design\Debug\Class-Design.exe
